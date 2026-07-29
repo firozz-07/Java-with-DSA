@@ -1,4 +1,5 @@
 public class eg {
+    
     public static void main(String[] args) {
         int []arr={7,3,4,7,8,1};
         for (int i = 0; i < arr.length-1; i++) {
