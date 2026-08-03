@@ -1,4 +1,4 @@
-package String;
+
 public class reverse {
     public static void main(String[] args) {
         String str = "firoz";
