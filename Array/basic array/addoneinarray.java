@@ -4,7 +4,7 @@ public class addoneinarray {
     public static void main(String[] args) {
         ArrayList<Integer> arr=new ArrayList<>();
         int carry=1;
-        int [] q={1,2,3,4};
+        int [] q={5,6,7,8,1};
         for (int i = q.length-1; i >= 0; i--) {
             if(q[i]+carry<=9){
                 arr.add(q[i]+carry);
