@@ -3,7 +3,7 @@ import java.util.*;
 
 public class sortArray {
     public static void main(String[] args) {
-        int [] arr={100,120,330,490,50};
+        int [] arr={110,120,330,490,50};
         Arrays.sort(arr);
         print(arr);
     }
