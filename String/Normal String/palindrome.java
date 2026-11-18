@@ -2,7 +2,7 @@
 
 public class palindrome {
     public static void main(String[] args) {
-        String str = "level";
+        String str = "firoz";
         int i = 0, j = str.length() - 1;
         boolean isPalindrome = true;
 
