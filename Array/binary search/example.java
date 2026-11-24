@@ -1,6 +1,6 @@
 public class example {
     public static void main(String[] args) {
-        int []arr={5,7,9,18,91};
+        int []arr={5,7,9,18,19};
         int target=5;
         int left=0; 
         int right=arr.length-1 ;
